@@ -55,8 +55,3 @@ Pour lancer ce projet en local, suivez les étapes ci-dessous.
 *   Git
 *   Un environnement avec PHP et MariaDB (type LAMP/LEMP)
 
-#### 1. Cloner le Dépôt
-
-```bash
-git clone https://github.com/VOTRE_NOM_UTILISATEUR/cyberinnotech.git
-cd cyberinnotech
